@@ -1,3 +1,5 @@
+![web serial api](https://dnf7fm7877tpg.cloudfront.net/images/svvrERHay1dRsqnS563US6.jpg)
+
 ## Web Serial API with Arduino
 
 * Send DHT11 temperature data to serial port
