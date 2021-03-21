@@ -3,7 +3,7 @@
 * Send DHT11 temperature data to serial port
 * display UI
 
-It won't run correctly if the data sent from serial port is not JSON format.
+It won't run correctly if the data sent from serial port is not JSON format. Please read [arduino.ino](./src/arduino.ino) for more details.
 
 ## Web Serial API
 
